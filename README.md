@@ -1,4 +1,4 @@
 # lucky-demo
 This is my first Git Repository.
 <br>
-Author - Lucky bindal
+Author - Lucky bindal (Apna college)
